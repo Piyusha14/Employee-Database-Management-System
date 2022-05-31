@@ -18,15 +18,13 @@ Install all these python libraries:
             
             pip install flask
             pip install sqlite3
-            pip install 
-            pip install 
-            pip install 
+           
 
 
 
 
 ## OUTPUT
-![Alt text](https://github.com/dkokane0/Ai-Voice-Assistant/blob/main/images/output_complete.png)
+![Alt text](Output/database.PNG)
 
 
 
