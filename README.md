@@ -16,8 +16,8 @@ Dependencies and requirements :
 System requirements: Python 3.9, Visual Studio Code
 Install all these python libraries:
             
-            pip install 
-            pip install 
+            pip install flask
+            pip install sqlite3
             pip install 
             pip install 
             pip install 
