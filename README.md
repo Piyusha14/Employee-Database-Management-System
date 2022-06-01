@@ -24,9 +24,29 @@ Install all these python libraries:
 
 
 ## OUTPUT
+![Alt text](Output/output.PNG)
+
+## HOME
+![Alt text](Output/home.PNG)
+
+## SIGN UP
+![Alt text](Output/sign up.PNG)
+
+## LOGIN
+![Alt text](Output/login.PNG)
+
+## EMPLOYEE
+![Alt text](Output/employee.PNG)
+
+## EMPLOYEES
+![Alt text](Output/emp1.PNG)
+
+
+![Alt text](Output/emp2.PNG)
+
+## DATABASE
+
 ![Alt text](Output/database.PNG)
 
 
-
-
-
+![Alt text](Output/emp_data.PNG)
