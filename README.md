@@ -27,22 +27,22 @@ Install all these python libraries:
 ![Alt text](Output/output.PNG)
 
 ## HOME
-![Alt text](Output/home.PNG)
+![Alt text](Output/home.png)
 
 ## SIGN UP
-![Alt text](Output/sign up.PNG)
+![Alt text](Output/sign up.png)
 
 ## LOGIN
-![Alt text](Output/login.PNG)
+![Alt text](Output/login.png)
 
 ## EMPLOYEE
-![Alt text](Output/employee.PNG)
+![Alt text](Output/employee.png)
 
 ## EMPLOYEES
-![Alt text](Output/emp1.PNG)
+![Alt text](Output/emp1.png)
 
 
-![Alt text](Output/emp2.PNG)
+![Alt text](Output/emp2.png)
 
 ## DATABASE
 
